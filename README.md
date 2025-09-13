@@ -26,7 +26,7 @@ Using **SQL for data analysis** and **Power BI for visualization**, I designed d
 📌 Shows the **big picture** → Loan Applications, Funded Amount, Repayments, Interest Rate, Avg DTI  
 📌 Highlights **Good vs. Bad Loans** → 86% loans are healthy  
 📌 Helps leadership **check portfolio health in seconds**  
-![Loan Dashboard Summary](Images/dashboard_summary.png)  
+![Loan Dashboard Summary]([Images/dashboard_summary.png](https://github.com/gauravsevatkar3012-web/bank-loan-analysis-sql-powerbi/blob/800ee6eb634384c653c435868e3be57c292bcf11/Loan_Summary.png))  
 
 ---
 
