@@ -26,7 +26,8 @@ Using **SQL for data analysis** and **Power BI for visualization**, I designed d
 📌 Shows the **big picture** → Loan Applications, Funded Amount, Repayments, Interest Rate, Avg DTI  
 📌 Highlights **Good vs. Bad Loans** → 86% loans are healthy  
 📌 Helps leadership **check portfolio health in seconds**  
-![Loan Dashboard Summary]([Images/dashboard_summary.png](https://github.com/gauravsevatkar3012-web/bank-loan-analysis-sql-powerbi/blob/800ee6eb634384c653c435868e3be57c292bcf11/Loan_Summary.png))  
+
+![Loan Dashboard Summary](https://github.com/gauravsevatkar3012-web/bank-loan-analysis-sql-powerbi/blob/800ee6eb634384c653c435868e3be57c292bcf11/Loan_Summary.png) 
 
 ---
 
@@ -36,6 +37,7 @@ Using **SQL for data analysis** and **Power BI for visualization**, I designed d
 📌 **Loan Term Analysis** → Longer terms (60 months) = higher risk  
 👨‍💼 **Employment Length** → Stability linked to approvals  
 🏠 **Home Ownership & Purpose** → Debt consolidation + credit card loans dominate  
+
 ![Loan Dashboard Overview](https://github.com/gauravsevatkar3012-web/bank-loan-analysis-sql-powerbi/blob/f6781d6f58b7ffaa1644aefb1eb2f8f06723f3d7/Loan_Overview.png)  
 
 ---
@@ -44,4 +46,37 @@ Using **SQL for data analysis** and **Power BI for visualization**, I designed d
 🔎 Loan-level details (ID, Grade, Sub-Grade, Purpose, Funded Amount, Installments, Collections)  
 ⚠️ Enables **risk detection** → High DTI, unusual repayment patterns  
 📑 Supports **auditors, analysts, and finance teams** with transparency  
-![Loan Dashboard Detail](Images/dashboard_detail.png)  
+
+![Loan Dashboard Detail](https://github.com/gauravsevatkar3012-web/bank-loan-analysis-sql-powerbi/blob/14e20e18375b1b2e657cd49f6e2ed84f3dbd06ce/Loan_Details.png)
+
+---
+
+## 📈 Business Impact
+✔️ Helped management **spot high-risk borrowers** before defaults occur  
+✔️ Gave financial teams **clear visibility of loan quality (Good vs. Bad)**  
+✔️ Enabled **data-driven strategy** for designing better loan products  
+✔️ Improved decision-making with **MTD vs. PMTD vs. MoM growth tracking**  
+
+---
+
+## 🚀 Future Enhancements
+- 🔮 Add **Machine Learning model** for loan default prediction  
+- 🔄 Automate data refresh in **Power BI Service** with SQL Server/Cloud  
+- 🎯 Build **Customer Segmentation models** for targeted offers
+
+---
+
+## ✨ Why This Project Matters
+This project is not just about charts — it’s about **business storytelling through data**.  
+It shows my ability to:  
+- Deliver **end-to-end analytics projects** (Data → SQL → Power BI → Insights)  
+- Apply **banking & finance domain knowledge**  
+- Build dashboards that are **decision-ready, not just visually appealing**  
+- Translate raw data into **actionable business insights**  
+
+---
+
+## 👤 Author
+**Your Name**  
+📧 [gauravsevatkar3012@gmail.com] | 🔗 [www.linkedin.com/in/gaurav-sevatkar] | 💻 [https://github.com/gauravsevatkar3012-web]  
+
