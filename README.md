@@ -36,7 +36,7 @@ Using **SQL for data analysis** and **Power BI for visualization**, I designed d
 📌 **Loan Term Analysis** → Longer terms (60 months) = higher risk  
 👨‍💼 **Employment Length** → Stability linked to approvals  
 🏠 **Home Ownership & Purpose** → Debt consolidation + credit card loans dominate  
-![Loan Dashboard Overview](Images/dashboard_overview.png)  
+![Loan Dashboard Overview](https://github.com/gauravsevatkar3012-web/bank-loan-analysis-sql-powerbi/blob/f6781d6f58b7ffaa1644aefb1eb2f8f06723f3d7/Loan_Overview.png)  
 
 ---
 
